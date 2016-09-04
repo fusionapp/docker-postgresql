@@ -1,4 +1,4 @@
-FROM postgres:9.5
+FROM postgres:latest
 RUN apt-get update && \
     DEBIAN_FRONTEND=noninteractive apt-get install -yq \
         gcc libc6-dev python-dev libffi-dev libevent-dev lzop pv gnupg \
