@@ -18,7 +18,7 @@ azure-servicemanagement-legacy==0.20.5
 azure-storage==0.34.0
 azure==1.0.3
 Babel==2.4.0
-boto==2.42.0
+boto==2.46.1
 debtcollector==1.8.0
 funcsigs==1.0.2
 futures==3.0.5
