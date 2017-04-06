@@ -37,7 +37,7 @@ oslo.utils==3.25.0
 pbr==2.0.0
 positional==1.1.1
 pyparsing==2.2.0
-python-dateutil==2.5.3
+python-dateutil==2.6.0
 python-keystoneclient==3.5.0
 python-swiftclient==3.1.0
 pytz==2016.6.1
