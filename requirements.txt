@@ -22,7 +22,7 @@ boto==2.46.1
 debtcollector==1.13.0
 funcsigs==1.0.2
 futures==3.0.5
-gevent==1.1.2
+gevent==1.2.1
 greenlet==0.4.10
 iso8601==0.1.11
 keystoneauth1==2.12.1
