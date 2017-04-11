@@ -12,7 +12,7 @@ azure-mgmt-nspkg==1.0.0
 azure-mgmt-resource==0.31.0
 azure-mgmt-storage==0.31.0
 azure-mgmt==0.20.2
-azure-nspkg==1.0.0
+azure-nspkg==2.0.0
 azure-servicebus==0.21.0
 azure-servicemanagement-legacy==0.20.5
 azure-storage==0.34.0
