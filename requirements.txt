@@ -16,7 +16,7 @@ azure-nspkg==2.0.0
 azure-servicebus==0.21.1
 azure-servicemanagement-legacy==0.20.6
 azure-storage==0.34.2
-azure==1.0.3
+azure==2.0.0
 Babel==2.4.0
 boto==2.46.1
 debtcollector==1.13.0
