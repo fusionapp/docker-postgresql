@@ -32,7 +32,7 @@ netaddr==0.7.19
 netifaces==0.10.6
 oslo.config==4.11.0
 oslo.i18n==3.17.0
-oslo.serialization==2.19.0
+oslo.serialization==2.20.0
 oslo.utils==3.26.0
 pbr==3.1.1
 positional==1.1.1
