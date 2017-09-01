@@ -35,7 +35,7 @@ oslo.i18n==3.17.0
 oslo.serialization==2.20.0
 oslo.utils==3.28.0
 pbr==3.1.1
-positional==1.1.2
+positional==1.2.1
 pyparsing==2.2.0
 python-dateutil==2.6.1
 python-keystoneclient==3.13.0
