@@ -23,7 +23,7 @@ debtcollector==1.19.0
 funcsigs==1.0.2
 futures==3.2.0
 gevent==1.2.2
-greenlet==0.4.12
+greenlet==0.4.13
 iso8601==0.1.12
 keystoneauth1==3.3.0
 monotonic==1.4
