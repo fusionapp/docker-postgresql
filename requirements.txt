@@ -30,7 +30,7 @@ monotonic==1.4
 msgpack-python==0.5.6
 netaddr==0.7.19
 netifaces==0.10.6
-oslo.config==5.2.0
+oslo.config==6.0.0
 oslo.i18n==3.19.0
 oslo.serialization==2.24.0
 oslo.utils==3.35.0
