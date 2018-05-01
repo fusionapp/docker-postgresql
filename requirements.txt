@@ -38,7 +38,7 @@ pbr==4.0.2
 positional==1.2.1
 pyparsing==2.2.0
 python-dateutil==2.7.2
-python-keystoneclient==3.15.0
+python-keystoneclient==3.16.0
 python-swiftclient==3.5.0
 pytz==2018.3
 requests==2.18.4
