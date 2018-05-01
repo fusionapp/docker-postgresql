@@ -4,7 +4,7 @@
 #
 #    pip-compile --no-annotate --output-file requirements.txt requirements.in
 #
-azure-common==1.1.8
+azure-common==1.1.10
 azure-mgmt-common==0.20.0
 azure-mgmt-compute==3.0.1
 azure-mgmt-network==1.7.1
