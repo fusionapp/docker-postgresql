@@ -36,7 +36,7 @@ azure-mgmt-datalake-store==0.4.0
 azure-mgmt-devtestlabs==2.2.0
 azure-mgmt-dns==1.2.0
 azure-mgmt-eventgrid==1.0.0
-azure-mgmt-eventhub==1.2.0
+azure-mgmt-eventhub==2.0.0
 azure-mgmt-hanaonazure==0.1.1
 azure-mgmt-iothub==0.4.0
 azure-mgmt-iothubprovisioningservices==0.1.0
