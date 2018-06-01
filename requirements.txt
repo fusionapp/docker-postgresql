@@ -67,7 +67,7 @@ azure-mgmt-servicebus==0.5.0
 azure-mgmt-servicefabric==0.1.0
 azure-mgmt-sql==0.9.1
 azure-mgmt-storage==1.5.0
-azure-mgmt-subscription==0.1.0
+azure-mgmt-subscription==0.2.0
 azure-mgmt-trafficmanager==0.40.0
 azure-mgmt-web==0.34.1
 azure-mgmt==2.0.0
