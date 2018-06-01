@@ -90,7 +90,7 @@ chardet==3.0.4
 cryptography==2.2.2
 debtcollector==1.19.0
 entrypoints==0.2.3
-futures==3.1.1
+futures==3.2.0
 gevent==1.2.2
 google-api-core==1.1.2
 google-auth==1.4.1
