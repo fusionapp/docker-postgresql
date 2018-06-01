@@ -16,7 +16,7 @@ azure-graphrbac==0.40.0
 azure-keyvault==0.3.7
 azure-mgmt-advisor==1.0.1
 azure-mgmt-applicationinsights==0.1.1
-azure-mgmt-authorization==0.30.0
+azure-mgmt-authorization==0.40.0
 azure-mgmt-batch==5.0.0
 azure-mgmt-batchai==0.2.0
 azure-mgmt-billing==0.1.0
