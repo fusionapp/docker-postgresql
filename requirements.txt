@@ -120,7 +120,7 @@ oslo.utils==3.36.2
 pbr==4.0.3
 protobuf==3.5.2.post1
 pyasn1-modules==0.2.1
-pyasn1==0.4.2
+pyasn1==0.4.3
 pycparser==2.18
 pyjwt==1.6.3
 pyparsing==2.2.0
