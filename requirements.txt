@@ -29,7 +29,7 @@ azure-mgmt-containerinstance==1.0.0
 azure-mgmt-containerregistry==2.0.0
 azure-mgmt-containerservice==4.0.0
 azure-mgmt-cosmosdb==0.4.1
-azure-mgmt-datafactory==0.4.0
+azure-mgmt-datafactory==0.6.0
 azure-mgmt-datalake-analytics==0.3.0
 azure-mgmt-datalake-nspkg==2.0.0
 azure-mgmt-datalake-store==0.3.0
