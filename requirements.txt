@@ -27,7 +27,7 @@ azure-mgmt-compute==3.0.1
 azure-mgmt-consumption==2.0.0
 azure-mgmt-containerinstance==1.0.0
 azure-mgmt-containerregistry==2.0.0
-azure-mgmt-containerservice==3.0.1
+azure-mgmt-containerservice==4.0.0
 azure-mgmt-cosmosdb==0.3.1
 azure-mgmt-datafactory==0.4.0
 azure-mgmt-datalake-analytics==0.3.0
