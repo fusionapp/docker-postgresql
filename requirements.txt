@@ -108,7 +108,7 @@ keystoneauth1==3.9.0
 monotonic==1.5
 msgpack==0.5.6
 msrest==0.5.1
-msrestazure==0.4.31
+msrestazure==0.4.33
 netaddr==0.7.19
 netifaces==0.10.7
 oauthlib==2.1.0
