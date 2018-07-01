@@ -125,7 +125,7 @@ pycparser==2.18
 pyjwt==1.6.4
 pyparsing==2.2.0
 python-dateutil==2.7.3
-python-keystoneclient==3.16.0
+python-keystoneclient==3.17.0
 python-swiftclient==3.5.0
 pytz==2018.4
 pyyaml==3.12
