@@ -73,7 +73,7 @@ azure-mgmt-web==0.35.0
 azure-mgmt==2.0.0
 azure-nspkg==2.0.0
 azure-servicebus==0.21.1
-azure-servicefabric==6.2.0.0
+azure-servicefabric==6.3.0.0
 azure-servicemanagement-legacy==0.20.6
 azure-storage-blob==1.1.0
 azure-storage-common==1.1.0
