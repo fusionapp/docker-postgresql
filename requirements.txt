@@ -132,7 +132,7 @@ pyyaml==3.13
 requests-oauthlib==1.0.0
 requests==2.20.1
 rfc3986==1.1.0
-rsa==3.4.2
+rsa==4.0
 secretstorage==3.0.1
 six==1.11.0
 stevedore==1.29.0
