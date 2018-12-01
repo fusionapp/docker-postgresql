@@ -107,7 +107,7 @@ keyring==17.0.0
 keystoneauth1==3.11.1
 monotonic==1.5
 msgpack==0.6.0
-msrest==0.5.4
+msrest==0.6.2
 msrestazure==0.4.34
 netaddr==0.7.19
 netifaces==0.10.7
