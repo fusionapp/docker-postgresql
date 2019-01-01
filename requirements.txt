@@ -7,7 +7,7 @@
 adal==1.2.0
 asn1crypto==0.24.0
 azure-batch==6.0.0
-azure-common==1.1.14
+azure-common==1.1.16
 azure-cosmosdb-nspkg==2.0.2
 azure-cosmosdb-table==1.0.4
 azure-datalake-store==0.0.25
