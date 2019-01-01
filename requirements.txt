@@ -71,7 +71,7 @@ azure-mgmt-subscription==0.2.0
 azure-mgmt-trafficmanager==0.50.0
 azure-mgmt-web==0.40.0
 azure-mgmt==4.0.0
-azure-nspkg==2.0.0
+azure-nspkg==3.0.2
 azure-servicebus==0.21.1
 azure-servicefabric==6.3.0.0
 azure-servicemanagement-legacy==0.20.6
