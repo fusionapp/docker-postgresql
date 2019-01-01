@@ -98,7 +98,7 @@ google-cloud-core==0.29.1
 google-cloud-storage==1.13.2
 google-resumable-media==0.3.2
 googleapis-common-protos==1.5.5
-greenlet==0.4.14
+greenlet==0.4.15
 idna==2.7
 iso8601==0.1.12
 isodate==0.6.0
