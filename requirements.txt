@@ -93,7 +93,7 @@ entrypoints==0.3
 futures==3.2.0
 gevent==1.4.0
 google-api-core==1.7.0
-google-auth==1.5.1
+google-auth==1.6.2
 google-cloud-core==0.28.1
 google-cloud-storage==1.10.0
 google-resumable-media==0.3.1
