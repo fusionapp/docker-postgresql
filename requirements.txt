@@ -12,7 +12,7 @@ azure-cosmosdb-nspkg==2.0.2
 azure-cosmosdb-table==1.0.4
 azure-datalake-store==0.0.40
 azure-eventgrid==1.2.0
-azure-graphrbac==0.40.0
+azure-graphrbac==0.53.0
 azure-keyvault==1.0.0
 azure-mgmt-advisor==1.0.1
 azure-mgmt-applicationinsights==0.1.1
