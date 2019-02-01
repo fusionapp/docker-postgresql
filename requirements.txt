@@ -10,7 +10,7 @@ azure-batch==6.0.0
 azure-common==1.1.18
 azure-cosmosdb-nspkg==2.0.2
 azure-cosmosdb-table==1.0.4
-azure-datalake-store==0.0.25
+azure-datalake-store==0.0.40
 azure-eventgrid==1.1.0
 azure-graphrbac==0.40.0
 azure-keyvault==1.0.0
