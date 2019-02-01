@@ -95,7 +95,7 @@ gevent==1.4.0
 google-api-core==1.7.0
 google-auth==1.6.2
 google-cloud-core==0.29.1
-google-cloud-storage==1.10.0
+google-cloud-storage==1.13.2
 google-resumable-media==0.3.1
 googleapis-common-protos==1.5.3
 greenlet==0.4.14
