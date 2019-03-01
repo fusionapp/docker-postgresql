@@ -131,7 +131,7 @@ pytz==2018.9
 pyyaml==3.13
 requests-oauthlib==1.2.0
 requests==2.21.0
-rfc3986==1.1.0
+rfc3986==1.2.0
 rsa==3.4.2
 secretstorage==3.0.1
 six==1.11.0
