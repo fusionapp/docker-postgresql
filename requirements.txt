@@ -69,7 +69,7 @@ azure-mgmt-sql==0.11.0
 azure-mgmt-storage==3.1.1
 azure-mgmt-subscription==0.2.0
 azure-mgmt-trafficmanager==0.51.0
-azure-mgmt-web==0.35.0
+azure-mgmt-web==0.41.0
 azure-mgmt==2.0.0
 azure-nspkg==2.0.0
 azure-servicebus==0.21.1
