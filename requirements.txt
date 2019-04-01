@@ -26,7 +26,7 @@ azure-mgmt-commerce==1.0.1
 azure-mgmt-compute==4.5.1
 azure-mgmt-consumption==2.0.0
 azure-mgmt-containerinstance==1.4.0
-azure-mgmt-containerregistry==2.1.0
+azure-mgmt-containerregistry==2.7.0
 azure-mgmt-containerservice==4.2.0
 azure-mgmt-cosmosdb==0.4.1
 azure-mgmt-datafactory==0.6.0
