@@ -83,7 +83,7 @@ azure-storage-queue==1.4.0
 azure==4.0.0
 babel==2.6.0
 boto==2.49.0
-cachetools==2.1.0
+cachetools==3.1.0
 certifi==2018.4.16
 cffi==1.11.5
 chardet==3.0.4
