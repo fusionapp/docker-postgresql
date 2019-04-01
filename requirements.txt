@@ -104,7 +104,7 @@ iso8601==0.1.12
 isodate==0.6.0
 jeepney==0.4
 keyring==19.0.1
-keystoneauth1==3.10.0
+keystoneauth1==3.13.1
 monotonic==1.5
 msgpack==0.5.6
 msrest==0.5.4
