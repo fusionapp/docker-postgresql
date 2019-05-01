@@ -113,7 +113,7 @@ netaddr==0.7.19
 netifaces==0.10.9
 oauthlib==3.0.1
 os-service-types==1.6.0
-oslo.config==6.4.0
+oslo.config==6.9.0
 oslo.i18n==3.21.0
 oslo.serialization==2.27.0
 oslo.utils==3.36.4
