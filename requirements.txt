@@ -99,7 +99,7 @@ google-cloud-storage==1.15.0
 google-resumable-media==0.3.2
 googleapis-common-protos==1.5.10
 greenlet==0.4.15
-idna==2.7
+idna==2.8
 iso8601==0.1.12
 isodate==0.6.0
 jeepney==0.3.1
