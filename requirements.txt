@@ -87,7 +87,7 @@ cachetools==3.1.0
 certifi==2019.3.9
 cffi==1.12.3
 chardet==3.0.4
-cryptography==2.3
+cryptography==2.6.1
 debtcollector==1.20.0
 entrypoints==0.2.3
 futures==3.2.0
