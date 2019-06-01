@@ -31,7 +31,7 @@ azure-mgmt-containerservice==5.3.0
 azure-mgmt-cosmosdb==0.6.1
 azure-mgmt-datafactory==0.7.0
 azure-mgmt-datalake-analytics==0.6.0
-azure-mgmt-datalake-nspkg==2.0.0
+azure-mgmt-datalake-nspkg==3.0.1
 azure-mgmt-datalake-store==0.5.0
 azure-mgmt-devtestlabs==2.2.0
 azure-mgmt-dns==1.2.0
