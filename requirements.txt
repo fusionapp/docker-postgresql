@@ -115,7 +115,7 @@ oauthlib==3.0.1
 os-service-types==1.7.0
 oslo.config==6.9.0
 oslo.i18n==3.23.1
-oslo.serialization==2.27.0
+oslo.serialization==2.29.1
 oslo.utils==3.36.4
 pbr==4.2.0
 protobuf==3.6.0
