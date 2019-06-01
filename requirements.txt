@@ -119,7 +119,7 @@ oslo.serialization==2.29.1
 oslo.utils==3.41.0
 pbr==5.2.1
 protobuf==3.8.0
-pyasn1-modules==0.2.2
+pyasn1-modules==0.2.5
 pyasn1==0.4.4
 pycparser==2.18
 pyjwt==1.6.4
