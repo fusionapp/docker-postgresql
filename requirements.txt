@@ -130,7 +130,7 @@ python-swiftclient==3.7.0
 pytz==2019.1
 pyyaml==5.1.1
 requests-oauthlib==1.2.0
-requests==2.19.1
+requests==2.22.0
 rfc3986==1.1.0
 rsa==3.4.2
 secretstorage==3.0.1
