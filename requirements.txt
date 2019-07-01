@@ -94,7 +94,7 @@ futures==3.2.0
 gevent==1.4.0
 google-api-core==1.13.0
 google-auth==1.6.3
-google-cloud-core==0.28.1
+google-cloud-core==1.0.2
 google-cloud-storage==1.10.0
 google-resumable-media==0.3.1
 googleapis-common-protos==1.5.3
