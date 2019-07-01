@@ -117,7 +117,7 @@ oslo.config==6.10.0
 oslo.i18n==3.23.1
 oslo.serialization==2.29.1
 oslo.utils==3.41.0
-pbr==4.2.0
+pbr==5.3.1
 protobuf==3.6.0
 pyasn1-modules==0.2.2
 pyasn1==0.4.4
