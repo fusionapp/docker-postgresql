@@ -48,7 +48,7 @@ azure-mgmt-managementpartner==0.1.1
 azure-mgmt-marketplaceordering==0.2.1
 azure-mgmt-media==1.1.1
 azure-mgmt-monitor==0.7.0
-azure-mgmt-msi==0.2.0
+azure-mgmt-msi==1.0.0
 azure-mgmt-network==2.0.0
 azure-mgmt-notificationhubs==2.0.0
 azure-mgmt-nspkg==2.0.0
