@@ -51,7 +51,7 @@ azure-mgmt-monitor==0.7.0
 azure-mgmt-msi==1.0.0
 azure-mgmt-network==4.0.0
 azure-mgmt-notificationhubs==2.1.0
-azure-mgmt-nspkg==2.0.0
+azure-mgmt-nspkg==3.0.2
 azure-mgmt-powerbiembedded==2.0.0
 azure-mgmt-rdbms==1.2.0
 azure-mgmt-recoveryservices==0.3.0
